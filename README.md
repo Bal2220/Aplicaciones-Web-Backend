@@ -7,6 +7,7 @@
 La empresa Ming Company requiere una API en ASP.NET Core para gestionar sus operaciones mineras. La API debe permitir registrar y eliminar operaciones mineras,  cumpliendo reglas de negocio sencillas. 
 
 **Requisitos Técnicos:**
+
 1\. **Modelo de Datos (Operation)**
 * Id (autoincremental)
 * Title (nombre de la operación)
