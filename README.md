@@ -1,2 +1,5 @@
 # Aplicaciones-Web-Backend
-Retos semanales de la clase
+
+Retos semanales del aula virtual.
+
+Cada uno se encuentra en una rama.
